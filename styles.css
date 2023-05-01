@@ -1,13 +1,12 @@
 
 /* Your CSS Code here. */
-.first{
-	background-color:black;
-	color:white;
-}
 #third{
 	border-bottom:1px solid black;
 }
-#total{
+p{
+	color:gray;
+}
+td #total{
 	background-color:lightgray;
 	position:relative;
 	justify-content:center;
