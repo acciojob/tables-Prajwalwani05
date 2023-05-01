@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.first{
+	background-color:black;
+	color:white;
+}
+#third{
+	border-bottom:1px solid black;
+}
+#total{
+	background-color:lightgray;
+	position:relative;
+	justify-content:center;
+}
